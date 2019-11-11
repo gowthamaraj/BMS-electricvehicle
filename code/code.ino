@@ -114,14 +114,14 @@ if(temp>=38){
   }
 
 
-  //Serial.print("Temperature (C): ");
+  Serial.print("Temperature (C): ");
   Serial.println(temp);
 
 
-  //Serial.print("SOC 1 = ");
+  Serial.print("SOC 1 = ");
   Serial.println(val1);
   
-  //Serial.print("SOC 2 = ");
+  Serial.print("SOC 2 = ");
   Serial.println(val2);
   
   //Serial.print("SOC 3 = ");
